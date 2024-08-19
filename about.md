@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome to My About Page
+title: About
 ---
 
-# Hello, World!
-Welcome to my GitHub Pages site using the Minimal theme. This is a simple and clean layout to start with.
+# About Me
+This is the About page. Here, you can add some details about yourself.
