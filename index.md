@@ -39,14 +39,14 @@ To view a detailed list of my research experiences and their outcomes, I highly 
       - **Data**: Movement tasks in subjects with spinal cord injury
 	  - **Tools**: MATLAB
 	  - **ُSupervisor**: [Dr. Sepideh Hajipour](https://scholar.google.com/citations?user=jcH5o_IAAAAJ&hl=en), Sharif University of Technology, Iran
+  - Finding the best electrical stimulus type in improving Parkinsonian subjects behavioral metrics, [Link](./UBCDenoisingPipeline.md) 
+      - **Data**: Resting state + Movement task
+	  - **Tools**: MATLAB
+      - **ُSupervisors**: [Dr. Martin J. McKeown](https://scholar.google.com/citations?user=cBAT2tQAAAAJ&hl=en), The University of British Columbia, Canada + [Dr. Maryam	S. Mirian](https://scholar.google.com/citations?user=7etobUIAAAAJ&hl=en), The University of British Columbia, Canada  
   - Conducted source reconstruction using eLORETA and LCMV Beamforming techniques with the NYC head model, [Link](./SourceReconstruction.md)
       - **Data**: Auditory oddball task
 	  - **Tools**: MATLAB
       - **ُSupervisors**: [Dr. Bjørn Erik Juel](https://scholar.google.com/citations?user=vvEltwIAAAAJ&hl=en), The University of Oslo, Norway + [Dr. Lucas C. Parra](https://scholar.google.com/citations?user=-4BM5pwAAAAJ&hl=en), The City University of New York, USA	  
-  - Developed a semi-automatic pipeline to denoise signals containing electrical vestibular stimulation in Parkinsonian subjects, [Link](./UBCDenoisingPipeline.md) 
-      - **Data**: Resting state + Movement task
-	  - **Tools**: MATLAB
-      - **ُSupervisors**: [Dr. Martin J. McKeown](https://scholar.google.com/citations?user=cBAT2tQAAAAJ&hl=en), The University of British Columbia, Canada + [Dr. Maryam	S. Mirian](https://scholar.google.com/citations?user=7etobUIAAAAJ&hl=en), The University of British Columbia, Canada  
 
 - **Computational Neuroscience**
   - Analyzed a memory-guided saccade task in macaque monkeys, [Link](./IPMNDASS.md)
