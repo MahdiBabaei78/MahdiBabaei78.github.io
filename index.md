@@ -41,14 +41,6 @@ To view a detailed list of my research experiences and their outcomes, I highly 
       - **Data**: Resting state + Movement task
 	  - **Tools**: MATLAB
       - **ُSupervisors**: [Dr. Martin J. McKeown](https://scholar.google.com/citations?user=cBAT2tQAAAAJ&hl=en), The University of British Columbia, Canada + [Dr. Maryam	S. Mirian](https://scholar.google.com/citations?user=7etobUIAAAAJ&hl=en), The University of British Columbia, Canada  
-  - Classified EEG signals using AI/ML models (CNN, LSTM, Transformer), [Link](./MDDTransformer.md) 
-      - **Data**: Epilepsy (CNN), Parkinson’s disease (LSTM), MDD (Transformer)
-	  - **Tools**: Python, TensorFlow
-      - **ُSupervisors**: [Dr. Wajid Mumtaz](https://scholar.google.com.my/citations?user=6kfN3NkAAAAJ&hl=en), National University of Sciences and Technology, Islamabad, Pakistan	  
-  - Performed data augmentation using a diffusion model
-      - **Data**: Resting state in MDD subjects
-      - **Tools**: Python, TensorFlow (Keras)		  
-	  - **ُSupervisors**: [Dr. Wajid Mumtaz](https://scholar.google.com.my/citations?user=6kfN3NkAAAAJ&hl=en), National University of Sciences and Technology, Islamabad, Pakistan
 
 - **Computational Neuroscience**
   - Analyzed a memory-guided saccade task in macaque monkeys, [Link](./IPMNDASS.md)
