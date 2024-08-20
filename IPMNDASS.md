@@ -2,6 +2,9 @@
 layout: default
 title: 
 ---
+
+# IPM, Macaque Monkey Memmory-Guided Saccade Task
+
 ![The underlying mathematics of the RCTP method](./Project_Pics/RCTP/Formula.png)
 
 ![The boxplots of the peak accuracy of the four methods in each class pair](./Project_Pics/RCTP/Figure2_starred.png)
