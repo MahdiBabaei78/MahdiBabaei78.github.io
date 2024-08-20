@@ -59,7 +59,7 @@ To view a detailed list of my research experiences and their outcomes, I highly 
   - A project related to evidence accumulation during value-based decisions, [Link](./fMRIProject.md)
       - **Tools**: SPM, AFNI
 
-- ** Other Projects**
+- **Other Projects**
   - Designed and simulated a voltage regulator with specific configurations, [Link](./fMRIProject.md)
       - **Tools**: HSpice
   - Worked on audio signal processing projects, [Link](./DSPProject.md)
