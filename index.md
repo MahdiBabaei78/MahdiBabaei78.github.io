@@ -7,11 +7,16 @@ title: Mahdi Babaei
 ## B.Sc. - Electrical Engineering - Sharif University of Technology
 
 I graduated with a degree in Electrical Engineering from Sharif University of Technology, Iran, in 2023. Since then, I have been an **independent researcher** and am currently working as a remote intern at the University of British Columbia. My project aims to identify the most effective electrical vestibular stimulation for Parkinson's patients to enhance behavioral metrics, such as motor vigor and response time, using a weakly supervised approach.
-You can click on the [Projects](./projects.md) page to see the details of my work.
-Additionally, here is my four-page [CV](/Mahdi_Babaei_CV.pdf).
+
+You can click on the [**Projects**](./projects.md) page to see the details of my work.
+
+Additionally, here is my four-page [**CV**](/MahdiBabaei_CV.pdf).
+
 You can reach me at: 
-1. Main: [mahdibabaeiee@gmail.com](mailto:mahdibabaeiee@gmail.com) 
+1. Main: [mahdibabaeiee@gmail.com](mailto:mahdibabaeiee@gmail.com)
+ 
 or 
+
 2. Backup: [mahdi78babaei@gmail.com](mailto:mahdi78babaei@gmail.com)
 
 ### Research Interests
