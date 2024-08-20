@@ -1,8 +1,13 @@
+title: Personal Website
+logo: /My_Picture/Pic.png
+description: B.Sc. - EE - Sharif University of Technology
 theme: jekyll-theme-minimal
-title: My Awesome Site
 
-# Adding navigation links
 header_pages:
   - index.md
-  - about.md
+  - projects.md
   - contact.md
+
+
+
+
