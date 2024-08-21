@@ -6,13 +6,13 @@ title: Mahdi Babaei
 # Mahdi Babaei
 ## B.Sc. - Electrical Engineering - Sharif University of Technology
 
-I graduated with a degree in Electrical Engineering from Sharif University of Technology, Iran, in 2023. Since then, I have been an **independent researcher** and am currently working as a remote intern at the University of British Columbia. My project aims to identify the most effective electrical vestibular stimulation for Parkinson's patients to enhance behavioral metrics, such as motor vigor and response time, using a weakly supervised approach.
+I graduated with a degree in **Electrical Engineering** from **Sharif University of Technology**, Iran, in 2023. Since then, I have been an **independent researcher** and am currently working as a remote intern at the **University of British Columbia**. My project aims to identify the most effective electrical vestibular stimulation for Parkinson's patients to enhance behavioral metrics, such as motor vigor and response time, using a weakly supervised approach.
 
 You can click on the [Projects](./projects.md) page to see the details of my work.
 
 Additionally, here is my four-page [CV](/MahdiBabaei_CV.pdf).
 
-You can reach me at: 
+If you're interested in learning more about me, my research experiences, and my personality, feel free to set a meeting. You can reach me at:
 
 1. Main: [mahdibabaeiee@gmail.com](mailto:mahdibabaeiee@gmail.com) 
 
@@ -78,9 +78,10 @@ To view a detailed list of my research experiences and their outcomes, I highly 
       - **Tools**: MATLAB, CVX
 	  
 
-### Beyond Education: Exploring My Roles and Personal Journey
+### Besides Education
 
-Besides my education, I am also a high school physics teacher, an editor, and an athlete. If you're interested in learning more about me, my experiences beyond education, and my personality, feel free to visit my [Personal](./personal.md) page.
+Besides my education, I am also a high school physics teacher, an editor, and an a professional futsal player as well.
+
 
 
 
