@@ -9,7 +9,7 @@ title: RCTP
 
 Since this project was my first research experience, I learned the fundamentals of EEG signal processing through this work.
 
-![The underlying mathematics of the RCTP method](./Project_Pics/RCTP/Formula.png)
+![The underlying mathematics of the RCTP method](./Project_Pics/RCTP/Formula.PNG)
 
 ![The boxplots of the peak accuracy of the four methods in each class pair](./Project_Pics/RCTP/Figure2_starred.png)
 
