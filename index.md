@@ -22,7 +22,7 @@ or
 
 ### Research Interests
 I have worked in various fields, and my research interests are diverse:
-1. **Signal Processing (with a focus on biosignals)**
+1. **Signal and Image Processing (with a focus on biosignals and medical images)**
 2. **Computational Neuroscience** 
 3. **Applications of Machine Learning and Artificial Intelligence**
 
