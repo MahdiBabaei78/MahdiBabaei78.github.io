@@ -29,4 +29,4 @@ On this page, a list of my projects is provided. You can **click on any picture*
 [![result](./Project_Pics/projects/SVM.PNG)](./SVMProject.html)
 
 ## Computer Architecture and Microprocessors Course Projects
-[![result](./Project_Pics/projects/CA.PNG)](./CAProject.html)
+[![result](./Project_Pics/projects/CA.png)](./CAProject.html)
