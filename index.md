@@ -52,27 +52,27 @@ To view a detailed list of my research experiences and their outcomes, I highly 
   - Analyzed a memory-guided saccade task in macaque monkeys, [Link](./IPMNDASS.md)
       - **Tools**: MATLAB
 
-#### Couese Projects 
+#### Course Projects 
 - **EEG Signal Processing**  
   - Conducted emotion recognition using statistical, entropic, and frequency domain features with simple ML models (SVM and LDA)
 	  - **Tools**: MATLAB
 	  
 - **Computational Neuroscience**
-  - Analyzed the neural spike trains in macaque monkey, [Link](./NSProject.md)
+  - Analyzed the neural spike trains in macaque monkey
       - **Tools**: MATLAB
 	  
 - **fMRI**
   - A project related to evidence accumulation during value-based decisions, [Link](./fMRIProject.md)
-      - **Tools**: SPM, AFNI
+      - **Tools**: SPM, AFNI, FSL
 
 - **Other Projects**
-  - Designed and simulated a voltage regulator with specific configurations, [Link](./fMRIProject.md)
+  - Designed and simulated a voltage regulator with specific configurations, [Link](./CircuitProject.md)
       - **Tools**: HSpice
-  - Worked on audio signal processing projects, [Link](./DSPProject.md)
+  - Worked on audio signal processing projects
       - **Tools**: Python	  
   - Designed and simulated circuits with the 8051 microprocessor (Assembly Language), [Link](./CAProject.md)
       - **Tools**: Notepad, Proteus
-  - Designed and simulated multiple power systems in Simulink, [Link](./EECProject.md)
+  - Designed and simulated multiple power systems in Simulink
       - **Tools**: MATLAB (Simulink)
   - Derived the theory of the SVM algorithm with an RBF kernel and conducted simulations, [Link](./SVMProject.md)
       - **Tools**: MATLAB, CVX

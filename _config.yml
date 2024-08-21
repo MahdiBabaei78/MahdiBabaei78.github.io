@@ -1,4 +1,4 @@
-title: Personal Website
+title: Mahdi Babaei
 logo: /My_Picture/Pic.png
 description: B.Sc. - EE - Sharif University of Technology
 theme: jekyll-theme-minimal
@@ -10,10 +10,8 @@ header_pages:
   - SourceReconstruction.md
   - UBCDenoisingPipeline.md
   - IPMNDASS.md
-  - NSProject.md
+  - CircuitProject.md
   - fMRIProject.md
-  - DSPProject.md
   - CAProject.md
-  - EECProject.md
   - SVMProject.md
 
