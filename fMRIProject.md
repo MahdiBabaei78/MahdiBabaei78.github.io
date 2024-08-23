@@ -19,7 +19,7 @@ We used the **AFNI**, **SPM**, and **FSL** toolboxes in this project. The steps 
 
 ![Extracting the brain](./Project_Pics/fMRIProject/1.png)
 
-![Functional to standard](./Project_Pics/fMRIProject/2.PNG)
+![Functional to standard](./Project_Pics/fMRIProject/2.png)
 
 ![Motion correction](./Project_Pics/fMRIProject/3.png)
 
