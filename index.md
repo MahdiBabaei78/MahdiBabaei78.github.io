@@ -54,28 +54,37 @@ To view a detailed list of my research experiences and their outcomes, I highly 
 
 #### Course Projects 
 - **EEG Signal Processing**  
-  - Conducted emotion recognition using statistical, entropic, and frequency domain features with simple ML models (SVM and LDA)
+  - Conducted emotion recognition using vatious features (statistical, entropic, and frequency domain), **evolutionary algorithms** for feature selection, with simple ML models (SVM and LDA)
+	  - **Course**: Computational Intelligence
 	  - **Tools**: MATLAB
 	  
 - **Computational Neuroscience**
   - Analyzed the neural spike trains in macaque monkey
-      - **Tools**: MATLAB
+      - **Course**: Foundations of Neuroscience and Lab
+	  - **Tools**: MATLAB
 	  
 - **fMRI**
   - A project related to evidence accumulation during value-based decisions, [Link](./fMRIProject.md)
-      - **Tools**: SPM, AFNI, FSL
+      - **Course**: Foundations of Neuroscience and Lab
+	  - **Tools**: SPM, AFNI, FSL
 
 - **Other Projects**
-  - Designed and simulated a voltage regulator with specific configurations, [Link](./CircuitProject.md)
-      - **Tools**: HSpice
+  - Derived the theory of the SVM algorithm with an RBF kernel and conducted simulations, [Link](./SVMProject.md)
+      - **Course**: Convex Optimization
+	  - **Tools**: MATLAB, CVX
   - Worked on audio signal processing projects
+	  - **Course**: Digital Signal Processing
       - **Tools**: Python	  
   - Designed and simulated circuits with the 8051 microprocessor (Assembly Language), [Link](./CAProject.md)
-      - **Tools**: Notepad, Proteus
+      - **Course**: Computer Architecture and Microprocessors
+	  - **Tools**: Notepad, Proteus
+  - Designed and simulated a voltage regulator with specific configurations, [Link](./CircuitProject.md)
+      - **Course**: The Principles of Electronics
+	  - **Tools**: HSpice
   - Designed and simulated multiple power systems in Simulink
-      - **Tools**: MATLAB (Simulink)
-  - Derived the theory of the SVM algorithm with an RBF kernel and conducted simulations, [Link](./SVMProject.md)
-      - **Tools**: MATLAB, CVX
+      - **Course**: Electrical Energy Conversion
+	  - **Tools**: MATLAB (Simulink)
+
 	  
 
 ### Besides Education
