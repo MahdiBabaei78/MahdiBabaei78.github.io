@@ -1,5 +1,6 @@
-title: Personal Website
-
+title: Mahdi Babaei
+logo: /My_Picture/Pic.png
+description: B.Sc. - EE - Sharif University of Technology
 theme: jekyll-theme-minimal
 
 header_pages:
@@ -14,39 +15,3 @@ header_pages:
   - CAProject.md
   - SVMProject.md
 
-author:
-  name             : "Mahdi Babaei"
-  avatar           : "/My_Picture/Pic.png"
-  bio              : "B.Sc. - Electrical Engineering - Sharif University of Technology"
-  location         : 
-  employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "mahdibabaeiee@gmail.com"
-  researchgate     : 
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "MahdiBabaei78"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mahdi78babaei/"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : 
-  wikipedia        :
