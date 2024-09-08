@@ -6,9 +6,11 @@ title: Mahdi Babaei
 # Mahdi Babaei
 ## B.Sc. - Electrical Engineering - Sharif University of Technology
 
-I graduated with a degree in **Electrical Engineering** from **Sharif University of Technology**, Iran, in 2023. Since then, I have been an **independent researcher** and am currently working as a remote intern at the **University of British Columbia**. My project aims to identify the most effective electrical vestibular stimulation for Parkinson's patients to enhance behavioral metrics, such as motor vigor and response time, using a weakly supervised approach.
+I graduated with a degree in **Electrical Engineering** from **Sharif University of Technology**, Iran, in 2023. Since then, I have been an **independent researcher** and am currently working as a remote intern at the **University of British Columbia**. My ongoing project aims to identify the most effective electrical vestibular stimulation for Parkinson's patients to enhance behavioral metrics, such as motor vigor and response time, using a weakly supervised approach.
 
-You can click on the [Projects](./projects.md) page to see the details of my work.
+Moreover, I have recently submitted one of my papers under the title of **"Variability in Brain Responses to Galvanic Vestibular Stimulation: A Granger Causality Analysis of Independent Components in Resting-State EEG"** to the **Brain Stimulation Conference**. 
+
+You can click on the [Projects](./projects.md) page to see the details of my other works.
 
 Additionally, here is my four-page [CV](/MahdiBabaei_CV.pdf).
 
@@ -30,6 +32,15 @@ I am also interested in the field of **Computer Vision**. Given my solid backgro
 
 ### English Language Proficiency
 I hold a TOEFL score of **100** from the exam I took last year. With multiple internship positions and meetings, my English proficiency has further improved beyond that score.
+
+### Publications
+I am currently working on various projects and this section will be updated soon. Until now, here is a list of my publications:
+
+**1.**: "Variability in Brain Responses to Galvanic Vestibular Stimulation: A Granger Causality Analysis of Independent Components in Resting-State EEG"
+  - **Data**: Resting state EEG
+  - **Tools**: MATLAB
+  - **ُSupervisors**: [Dr. Martin J. McKeown](https://scholar.google.com/citations?user=cBAT2tQAAAAJ&hl=en), The University of British Columbia, Canada + [Dr. Maryam	S. Mirian](https://scholar.google.com/citations?user=7etobUIAAAAJ&hl=en), The University of British Columbia, Canada  
+  
 
 ### Research Experiences
 To view a detailed list of my research experiences and their outcomes, I highly recommend visiting my [Projects](./projects.md) page. Below is a brief overview of my experiences:
